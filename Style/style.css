@@ -1,0 +1,41 @@
+.teto{
+    width: 5000px;
+    height: 100px;
+    background-color: aqua;
+}
+.cantoD{
+    background-color: aqua;
+    float: right;
+    width:50px;
+    height: 5000px;
+}
+.cantoE{
+    background-color: aqua;
+    width:50px;
+    height: 5000px;
+    float: left;
+}
+.titulo{
+    text-align: center;
+    font-size: larger;
+}
+.image{
+    padding-left: 465px;
+    width: 500px;
+    height: 500px;
+}
+.desc{
+    text-align: center;
+}
+.desc2{
+    text-indent: 10px;
+}
+.video{
+    padding-left: 80px;
+}
+.ref1{
+    text-align: center;
+}
+.ref2{
+    text-indent: 50px;
+}
